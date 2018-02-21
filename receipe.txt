@@ -10,5 +10,11 @@ pasta
 
 chiken 
 beans
+pizza
+biryani
 
+
+
+final
 thanks
+master
